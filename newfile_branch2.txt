@@ -1,0 +1,1 @@
+This is new file created in branch2 whcih is created from branch1
