@@ -1,1 +1,18 @@
-Hi
+Topics to be covered on Javascript before learing React
+
+1.Modules, import and export
+    when working with React, you create your own components in separate files, needing to compose them all together,
+    including importing/exporting elements from one to another.  Understanding how modules work is key!
+
+2. Fluency with Array/Object methods
+    Regardless of you app, you're usually going to have to work with data of some ort, and operating on that data.  
+    Get familiar with array menthods such as map, filter, reduce and immutable paradigamns, as well as iterating objects as well.
+
+3.Asynchronus Javascript
+    Learn how callbacks and promises work in Javascript, as weel as async/await syntax.  Fetching Data will come up 
+    and its important to understand the difference between how synchronus vs asynchronus functions resolve.
+
+4.DOM Manipulation
+    At some point, you will end needing to work on modifying the structure, style and content of the pages you build.  
+    You have got to understand how to create, access and remove elemtes, modify their contnet and know 
+    how to handle events.
